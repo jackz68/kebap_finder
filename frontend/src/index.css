@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root { color-scheme: light dark; }
+body { margin: 0; }
+
+/* Example tokens (Tailwind v4 CSS-first config)
+@theme {
+  --color-brand: oklch(0.6 0.2 264);
+}
+*/
